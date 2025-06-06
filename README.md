@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miamisogaxa
+- 👋 Hi, I’m Yanga Sogaxa
 - 👀 I’m interested in software development and in IT field also in business industry
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on IT field and coding
